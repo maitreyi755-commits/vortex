@@ -44,7 +44,7 @@ Since this app runs entirely in the browser, no backend server or database insta
 Clone the repository:
 
 Bash
-git clone https://github.com/Voyage-Hackathon/team-vortex.git
+git clone https://github.com/maitreyi755-commits/vortex.git
 Navigate to the project folder:
 
 Bash
